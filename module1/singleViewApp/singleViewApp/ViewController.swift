@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  single view application
+//  singleViewApp
 //
 //  Created by Ryan Smith on 1/9/26.
 //
