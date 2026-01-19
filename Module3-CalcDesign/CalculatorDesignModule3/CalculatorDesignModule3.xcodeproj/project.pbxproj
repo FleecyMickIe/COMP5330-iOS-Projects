@@ -7,38 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3057D1912F1EEDE200272235 /* calculatorApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculatorApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		30C083262F1EF94A00F0D9E3 /* CalculatorDesignModule3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorDesignModule3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-<<<<<<< HEAD
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		3057D1932F1EEDE200272235 /* calculatorApplication */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-=======
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3057D1A32F1EEDE400272235 /* Exceptions for "calculatorApplication" folder in "calculatorApplication" target */ = {
+		30C083382F1EF94B00F0D9E3 /* Exceptions for "CalculatorDesignModule3" folder in "CalculatorDesignModule3" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 3057D1902F1EEDE200272235 /* calculatorApplication */;
+			target = 30C083252F1EF94A00F0D9E3 /* CalculatorDesignModule3 */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3057D1932F1EEDE200272235 /* calculatorApplication */ = {
+		30C083282F1EF94A00F0D9E3 /* CalculatorDesignModule3 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				3057D1A32F1EEDE400272235 /* Exceptions for "calculatorApplication" folder in "calculatorApplication" target */,
+				30C083382F1EF94B00F0D9E3 /* Exceptions for "CalculatorDesignModule3" folder in "CalculatorDesignModule3" target */,
 			);
->>>>>>> branch3
-			path = calculatorApplication;
+			path = CalculatorDesignModule3;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3057D18E2F1EEDE200272235 /* Frameworks */ = {
+		30C083232F1EF94A00F0D9E3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -48,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3057D1882F1EEDE200272235 = {
+		30C0831D2F1EF94A00F0D9E3 = {
 			isa = PBXGroup;
 			children = (
-				3057D1932F1EEDE200272235 /* calculatorApplication */,
-				3057D1922F1EEDE200272235 /* Products */,
+				30C083282F1EF94A00F0D9E3 /* CalculatorDesignModule3 */,
+				30C083272F1EF94A00F0D9E3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3057D1922F1EEDE200272235 /* Products */ = {
+		30C083272F1EF94A00F0D9E3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3057D1912F1EEDE200272235 /* calculatorApplication.app */,
+				30C083262F1EF94A00F0D9E3 /* CalculatorDesignModule3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3057D1902F1EEDE200272235 /* calculatorApplication */ = {
+		30C083252F1EF94A00F0D9E3 /* CalculatorDesignModule3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3057D1A42F1EEDE400272235 /* Build configuration list for PBXNativeTarget "calculatorApplication" */;
+			buildConfigurationList = 30C083392F1EF94B00F0D9E3 /* Build configuration list for PBXNativeTarget "CalculatorDesignModule3" */;
 			buildPhases = (
-				3057D18D2F1EEDE200272235 /* Sources */,
-				3057D18E2F1EEDE200272235 /* Frameworks */,
-				3057D18F2F1EEDE200272235 /* Resources */,
+				30C083222F1EF94A00F0D9E3 /* Sources */,
+				30C083232F1EF94A00F0D9E3 /* Frameworks */,
+				30C083242F1EF94A00F0D9E3 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3057D1932F1EEDE200272235 /* calculatorApplication */,
+				30C083282F1EF94A00F0D9E3 /* CalculatorDesignModule3 */,
 			);
-			name = calculatorApplication;
+			name = CalculatorDesignModule3;
 			packageProductDependencies = (
 			);
-			productName = calculatorApplication;
-			productReference = 3057D1912F1EEDE200272235 /* calculatorApplication.app */;
+			productName = CalculatorDesignModule3;
+			productReference = 30C083262F1EF94A00F0D9E3 /* CalculatorDesignModule3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3057D1892F1EEDE200272235 /* Project object */ = {
+		30C0831E2F1EF94A00F0D9E3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					3057D1902F1EEDE200272235 = {
+					30C083252F1EF94A00F0D9E3 = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = 3057D18C2F1EEDE200272235 /* Build configuration list for PBXProject "calculatorApplication" */;
+			buildConfigurationList = 30C083212F1EF94A00F0D9E3 /* Build configuration list for PBXProject "CalculatorDesignModule3" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 3057D1882F1EEDE200272235;
+			mainGroup = 30C0831D2F1EF94A00F0D9E3;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3057D1922F1EEDE200272235 /* Products */;
+			productRefGroup = 30C083272F1EF94A00F0D9E3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3057D1902F1EEDE200272235 /* calculatorApplication */,
+				30C083252F1EF94A00F0D9E3 /* CalculatorDesignModule3 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3057D18F2F1EEDE200272235 /* Resources */ = {
+		30C083242F1EF94A00F0D9E3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -134,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3057D18D2F1EEDE200272235 /* Sources */ = {
+		30C083222F1EF94A00F0D9E3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -144,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3057D1A52F1EEDE400272235 /* Debug */ = {
+		30C0833A2F1EF94B00F0D9E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -152,18 +146,19 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = calculatorApplication/Info.plist;
+				INFOPLIST_FILE = CalculatorDesignModule3/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = edu.auburn.onlinecsse.calculatorApplication;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.auburn.onlinecsse.CalculatorDesignModule3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -175,7 +170,7 @@
 			};
 			name = Debug;
 		};
-		3057D1A62F1EEDE400272235 /* Release */ = {
+		30C0833B2F1EF94B00F0D9E3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -183,18 +178,19 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = calculatorApplication/Info.plist;
+				INFOPLIST_FILE = CalculatorDesignModule3/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = edu.auburn.onlinecsse.calculatorApplication;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.auburn.onlinecsse.CalculatorDesignModule3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -206,7 +202,7 @@
 			};
 			name = Release;
 		};
-		3057D1A72F1EEDE400272235 /* Debug */ = {
+		30C0833C2F1EF94B00F0D9E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -269,7 +265,7 @@
 			};
 			name = Debug;
 		};
-		3057D1A82F1EEDE400272235 /* Release */ = {
+		30C0833D2F1EF94B00F0D9E3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -328,25 +324,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3057D18C2F1EEDE200272235 /* Build configuration list for PBXProject "calculatorApplication" */ = {
+		30C083212F1EF94A00F0D9E3 /* Build configuration list for PBXProject "CalculatorDesignModule3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3057D1A72F1EEDE400272235 /* Debug */,
-				3057D1A82F1EEDE400272235 /* Release */,
+				30C0833C2F1EF94B00F0D9E3 /* Debug */,
+				30C0833D2F1EF94B00F0D9E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3057D1A42F1EEDE400272235 /* Build configuration list for PBXNativeTarget "calculatorApplication" */ = {
+		30C083392F1EF94B00F0D9E3 /* Build configuration list for PBXNativeTarget "CalculatorDesignModule3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3057D1A52F1EEDE400272235 /* Debug */,
-				3057D1A62F1EEDE400272235 /* Release */,
+				30C0833A2F1EF94B00F0D9E3 /* Debug */,
+				30C0833B2F1EF94B00F0D9E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3057D1892F1EEDE200272235 /* Project object */;
+	rootObject = 30C0831E2F1EF94A00F0D9E3 /* Project object */;
 }
